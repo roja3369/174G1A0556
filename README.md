@@ -1,5 +1,5 @@
 
-In this study we have erformed classification methodologies to find out the overfitting in HSI.
+In this study we have Performed classification methodologies to find out the overfitting in HSI.
 Hyper Spectral Image(HSI) provides a wide range of spectral information that can be used to address a variety of problems like crop analysis, geological mapping, mineral exploration, etc. Hyper Spectral Images are the images in which one continuous spectrum is measured for each pixel.
 
 
